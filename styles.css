@@ -1,0 +1,55 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 20px;
+}
+
+body {
+    background-color: #EBEBEB;
+    color: #1E1E1E;
+}
+
+h1 {
+    margin: 0;
+    font-size: 70pt;
+    padding: 20px 0;
+    color: #FFCC00;
+    text-shadow: 3px 3px 1px black;
+    display: flex;
+    justify-content: center;
+  }
+  
+
+p {
+    font-size: 38pt;
+    color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+}
+
+div.container {
+    text-align: center;
+    font-size: 18pt;
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+/* 
+
+Primary Colours
+
+Primary yellow: #FFCC00
+Beacon yellow:  #FFFF00
+Neutral Colours
+
+Gray: #BEBEB9
+Light gray: #EBEBEB
+Black: #1E1E1E
+White: #FFFFFF 
+
+*/
